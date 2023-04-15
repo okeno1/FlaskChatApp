@@ -53,3 +53,17 @@
     flex: 1;
     width: 100%;
 }
+
+.muted{
+    font-size: 10px;
+    color: darkgray;
+}
+
+.text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
